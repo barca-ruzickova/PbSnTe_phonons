@@ -1,4 +1,5 @@
 Interactive phonon visualizations
+
 [PbTe] 
 https://henriquemiranda.github.io/phononwebsite/phonon.html?json=https://raw.githubusercontent.com/barca-ruzickova/PbSnTe_phonons/refs/heads/main/PbTe.json
 
